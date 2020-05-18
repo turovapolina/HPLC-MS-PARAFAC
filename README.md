@@ -1,2 +1,2 @@
-# PARAFAC-for-HPLC-MS-data
+# HPLC-MS-PARAFAC
 PARAFAC-based algorithm for HPLC-MS data treatment
